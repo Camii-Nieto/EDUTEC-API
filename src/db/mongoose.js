@@ -5,5 +5,3 @@ mongoose.connect(uri, {
     useCreateIndex: true,
     useUnifiedTopology: true
 });
-
-const hola = hola;
